@@ -1,3 +1,8 @@
+#pastas de dados:
+fonte/
+#ambiente virtual:
+SENSO_IBGE_CONSERVACAO/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
